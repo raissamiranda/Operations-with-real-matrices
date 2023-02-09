@@ -3,7 +3,7 @@
 #include <string.h>
 #include <errno.h>
 #include "memlog.h"
-#include "msgassert.h"
+#include "msgassert.h" 
 
 
 // Constantes definindo os estados de registro

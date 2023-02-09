@@ -14,7 +14,7 @@ typedef struct memlog{
 	struct timespec inittime;
 
 // Contador de quantos eventos foram gerados
-	long count;
+	long count; 
 
 // Define a fase
 	int fase;

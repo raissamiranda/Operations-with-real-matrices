@@ -5,7 +5,7 @@
 #include <string.h>
 #include "mat.h"
 #include "memlog.h" 
-#include "msgassert.h" 
+#include "msgassert.h"  
 
 
 // Definicoes de operacoes a serem testadas

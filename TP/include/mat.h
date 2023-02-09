@@ -7,7 +7,7 @@ typedef struct matriz{
 // Ponteiro duplo que representara a matriz
     double** mat;
 
-} tipo_matriz;
+} tipo_matriz; 
 
 
 // Prototipo de funcoes uteis para fazer operacoes com matrizes

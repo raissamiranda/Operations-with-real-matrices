@@ -4,7 +4,7 @@
 #include<time.h>
 #include"mat.h"
 #include"msgassert.h"
-#include"memlog.h"
+#include"memlog.h" 
 
 
 // Macro que realiza swap sem variavel auxiliar
